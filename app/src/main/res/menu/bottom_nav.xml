@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Earthquakes"
+        android:id="@+id/eq"
+        android:icon="@drawable/earthquake"
+        android:iconTint="#0060AC"/>
+    <item android:title="User"
+        android:id="@+id/profile"
+        android:icon="@drawable/user"
+        android:iconTint="#0060AC"/>
+    <item android:title="Corona"
+        android:id="@+id/corona"
+        android:icon="@drawable/corona"
+        android:iconTint="#0060AC"/>
+
+</menu>
