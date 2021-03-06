@@ -1,4 +1,4 @@
-#EarthquakeApp
+# EarthquakeApp
 1. Used Google Maps Places api for the map.
 2. Used (https://earthquake.usgs.gov/)'s live earthuake api for displaying earthuake markers on the map.
 3. Retrofit is used for using The API.
